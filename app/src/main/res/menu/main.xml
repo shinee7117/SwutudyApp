@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="자기계발" >
+        <menu >
+            <item
+                android:id="@+id/action_linkareer"
+                android:title="링커리어" />
+            <item
+                android:id="@+id/action_onoffmix"
+                android:title="온오프믹스" />
+            <item
+                android:id="@+id/action_swu"
+                android:title="서울여대" />
+        </menu>
+    </item>
+</menu>
